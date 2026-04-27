@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+env/
+
+# YOLOv8 downloaded weights (re-downloaded on first run)
+models/weights/*.pt
+
+# Temporary video output files
+*.mp4
+*.avi
+*.mov
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
