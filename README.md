@@ -124,3 +124,9 @@ streamlit run app.py
 ## 📄 License
 
 MIT
+
+---
+
+# Object_Detection
+
+A small project: it detects objects in images and video using YOLOv8.
