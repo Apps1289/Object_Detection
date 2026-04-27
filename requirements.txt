@@ -1,6 +1,6 @@
-ultralytics==8.2.18
-opencv-python-headless==4.9.0.80
-Pillow==10.4.0
+ultralytics
+opencv-python-headless
+Pillow
 numpy==1.26.4
 torch==2.3.0
 torchvision==0.18.0
